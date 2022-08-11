@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/MinimalApi.Net7/FileContentIndex
+/.vs/MinimalApi.Net7/DesignTimeBuild
+/.vs/MinimalApi.Net7/v17
+/.vs/ProjectEvaluation
+/MinimalApi.Net7.MediatR/bin/Debug/net7.0
+/MinimalApi.Net7.MediatR/obj
+/.vs/slnx.sqlite

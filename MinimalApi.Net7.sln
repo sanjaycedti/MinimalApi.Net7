@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32728.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8BCCC370-2A14-49F0-9DA1-0F71746CE123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApi.Net7.MediatR", "MinimalApi.Net7.MediatR\MinimalApi.Net7.MediatR.csproj", "{0B245268-AFD8-4C6C-B391-C8948B7EE08D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B245268-AFD8-4C6C-B391-C8948B7EE08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B245268-AFD8-4C6C-B391-C8948B7EE08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B245268-AFD8-4C6C-B391-C8948B7EE08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B245268-AFD8-4C6C-B391-C8948B7EE08D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0B245268-AFD8-4C6C-B391-C8948B7EE08D} = {8BCCC370-2A14-49F0-9DA1-0F71746CE123}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EA9BAA5-8B4C-4678-A93C-5AF3FE013454}
+	EndGlobalSection
+EndGlobal
